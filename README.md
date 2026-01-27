@@ -1,16 +1,33 @@
-## Hi there 👋
+# Yasmine El Mkhantar
+Master 2 – Data Science & AI | AI Engineer (PFE)
 
-<!--
-**yasmine-elmkh/yasmine-elmkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+Master student in Data Science and AI with hands-on experience in Machine Learning, Deep Learning, NLP, and Computer Vision through applied academic projects. Focused on designing, training, and deploying AI models to solve real-world problems.
 
-Here are some ideas to get you started:
+## Technical Skills
+- Machine Learning, Deep Learning
+- NLP (BERT, AraBERT, Transformers)
+- Computer Vision (CNN, YOLOv8, Deep SORT)
+- Python, PyTorch, TensorFlow, Scikit-learn
+- FastAPI, Flask, Streamlit
+- SQL, MongoDB, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- **ECG Cardiac Diagnosis (Deep Learning)**  
+  CNN-BiLSTM model for automatic cardiac anomaly detection from ECG signals.
+- **Fake News Detection (Arabic & English NLP)**  
+  Transformer-based system (AraBERT, BERT) with Flask API and React frontend.
+- **Skin Lesion Classification**  
+  CNN-based image classification with Streamlit app.
+- **Real-Time Object Detection & Tracking**  
+  YOLOv8 + Deep SORT for real-time video analysis.
+
+## Currently Learning
+- MLOps (Docker, CI/CD)
+- FastAPI & scalable APIs
+- LLMs, RAG systems
+- Spark & Big Data
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/yasmineelmkhantar
+- Email: yasminrelmkhantar@gmail.com
