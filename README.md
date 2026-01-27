@@ -13,7 +13,7 @@ AI and Data Science master’s student with strong hands-on experience in Machin
 ## Core Technologies
 Python · PyTorch · TensorFlow · Scikit-learn  
 BERT · AraBERT · YOLOv8 · Deep SORT  
-FastAPI · Flask · Streamlit  
+FastAPI · Streamlit  
 SQL · MongoDB · Git  
 
 ## Selected Work
