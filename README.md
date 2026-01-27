@@ -1,33 +1,30 @@
 # Yasmine El Mkhantar
-Master 2 – Data Science & AI | AI Engineer (PFE)
+**Master 2 – Data Science & Artificial Intelligence | AI Engineer**
 
-## About
-Master student in Data Science and AI with hands-on experience in Machine Learning, Deep Learning, NLP, and Computer Vision through applied academic projects. Focused on designing, training, and deploying AI models to solve real-world problems.
+## Overview
+AI and Data Science master’s student with strong hands-on experience in Machine Learning, Deep Learning, NLP, and Computer Vision. Focused on building, evaluating, and deploying AI models through end-to-end applied projects.
 
-## Technical Skills
-- Machine Learning, Deep Learning
-- NLP (BERT, AraBERT, Transformers)
-- Computer Vision (CNN, YOLOv8, Deep SORT)
-- Python, PyTorch, TensorFlow, Scikit-learn
-- FastAPI, Flask, Streamlit
-- SQL, MongoDB, Git
+## What I Do
+- Design and train ML & Deep Learning models
+- Build NLP systems using Transformer architectures
+- Develop Computer Vision pipelines for real-time analysis
+- Deploy AI solutions using APIs and interactive dashboards
 
-## Featured Projects
-- **ECG Cardiac Diagnosis (Deep Learning)**  
-  CNN-BiLSTM model for automatic cardiac anomaly detection from ECG signals.
-- **Fake News Detection (Arabic & English NLP)**  
-  Transformer-based system (AraBERT, BERT) with Flask API and React frontend.
-- **Skin Lesion Classification**  
-  CNN-based image classification with Streamlit app.
-- **Real-Time Object Detection & Tracking**  
-  YOLOv8 + Deep SORT for real-time video analysis.
+## Core Technologies
+Python · PyTorch · TensorFlow · Scikit-learn  
+BERT · AraBERT · YOLOv8 · Deep SORT  
+FastAPI · Flask · Streamlit  
+SQL · MongoDB · Git  
 
-## Currently Learning
-- MLOps (Docker, CI/CD)
-- FastAPI & scalable APIs
-- LLMs, RAG systems
-- Spark & Big Data
+## Selected Work
+- **ECG Cardiac Diagnosis** — CNN-BiLSTM for cardiac anomaly detection  
+- **Fake News Detection (AR / EN)** — Transformer-based NLP system with API & frontend  
+- **Skin Lesion Classification** — CNN image classifier with Streamlit app  
+- **Real-Time Object Detection & Tracking** — YOLOv8 + Deep SORT video pipeline  
+
+## Currently Expanding
+MLOps (Docker, CI/CD) · FastAPI at scale · LLMs & RAG · Spark & Big Data
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/yasmineelmkhantar
-- Email: yasminrelmkhantar@gmail.com
+LinkedIn: https://www.linkedin.com/in/yasmineelmkhantar  
+Email: yasminrelmkhantar@gmail.com
