@@ -1,5 +1,5 @@
 # Yasmine El Mkhantar
-**Master 2 – Data Science & Artificial Intelligence | AI Engineer**
+**Master 2 – Artificial Intelligence & Data Science  | Futur AI Engineer**
 
 ## Overview
 AI and Data Science master’s student with strong hands-on experience in Machine Learning, Deep Learning, NLP, and Computer Vision. Focused on building, evaluating, and deploying AI models through end-to-end applied projects.
