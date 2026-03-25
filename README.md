@@ -11,9 +11,9 @@ AI and Data Science master’s student with strong hands-on experience in Machin
 - Deploy AI solutions using APIs and interactive dashboards
 
 ## Core Technologies
-Python · PyTorch · TensorFlow · Scikit-learn  
-BERT · AraBERT · YOLOv8 · Deep SORT  
-FastAPI · Streamlit  
+Python  · TensorFlow · Scikit-learn  
+BERT · AraBERT · YOLOv8 
+FastAPI   
 SQL · MongoDB · Git  
 
 ## Selected Work
