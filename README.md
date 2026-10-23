@@ -1,5 +1,5 @@
 # Yasmine El Mkhantar
-**MSc AI for Business · Master in Data Science & Engineering**
+**MSc AI for Business**
 
 ## Overview
 AI engineer with a Master's in Data Science & Engineering, specialized in Artificial Intelligence. Hands-on experience in Machine Learning, Deep Learning, NLP, Computer Vision and Generative AI (LLM, RAG), built through applied projects and an end-of-studies internship on an EEG cognitive assistant.
